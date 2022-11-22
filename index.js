@@ -53,4 +53,4 @@ function removeFirstCat(name) {
     return Cats;
 }
 console.log(removeFirstCat("Milo"));
-console.log(cats);b
+console.log(cats);
